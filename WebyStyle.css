@@ -1,0 +1,42 @@
+h1 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	color:#e38000;
+}
+
+h2 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #E38000;
+}
+
+h3 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:  #FFFFFF;
+}
+
+h4 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #e38000;
+}
+
+body {
+	max-width: 1000px;
+	float: none;
+	margin: auto;
+	background-color: black;
+}
+
+p {
+    font-family:"Times New Roman", Times, serif;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+li {
+	color: #F2F0EF;
+}
+
